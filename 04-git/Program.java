@@ -1,6 +1,6 @@
 public class Master {
   int indeks = 148293;
   int semestr = 5;
-  int random = 1221; //komentarz
+  int random = 1221;
 }
 
