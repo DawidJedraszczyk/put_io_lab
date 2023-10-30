@@ -1,4 +1,4 @@
 public class Main {
-  int x = 5;
+  int indeks = 148293;
 }
 
